@@ -1,1 +1,1 @@
-assets/** filter=git-crypt diff=git-crypt
+assets/frontendmentor/** filter=git-crypt diff=git-crypt
