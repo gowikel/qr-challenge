@@ -15,6 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
     - [Continued development](#continued-development)
     - [Useful resources](#useful-resources)
   - [Author](#author)
+  - [License](#license)
 
 ## Overview
 
@@ -60,3 +61,10 @@ I want to continue doing things in Svelte, and in a no long future, go deep in W
 
 - Frontend Mentor - [@gowikel](https://www.frontendmentor.io/profile/gowikel)
 - Linkedin - [@gowikel](https://www.linkedin.com/in/gowikel/)
+
+
+## License
+
+This project is licensed under the Unlicense, a public domain equivalent license that allows you to freely use, modify, distribute, and do whatever you want with the project's code, with no restrictions.
+
+However, it's important to note that the code within `assets/frontendmentor` is licensed by [Frontend Mentor](https://www.frontendmentor.io/) and requires their explicit permission for use, not falling under the Unlicense. They are included in this repository for convenience, but careful steps have been taken to prevent their display or distribution.
